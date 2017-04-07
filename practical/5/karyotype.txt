@@ -1,0 +1,16 @@
+chr - hs1 miR200b 0 364 chr1
+chr - hs11 miR34c 0 302 chr1
+chr - hs13 miR17 0 251 chr1
+chr - hs17 miR196a-1 0 310 chr1
+chr - hs3 miR375 0 380 chr1
+chr - hs7 miR335 0 429 chr1
+chr - hsX miR106a 0 318 chr1
+chr - hsY miR424 0 404 chr1
+band hs1 p36.33 p36.33 0 364 gneg
+band hs11 p36.33 p36.33 0 302 gneg
+band hs13 p36.33 p36.33 0 251 gneg
+band hs17 p36.33 p36.33 0 310 gneg
+band hs3 p36.33 p36.33 0 380 gneg
+band hs7 p36.33 p36.33 0 429 gneg
+band hsX p36.33 p36.33 0 318 gneg
+band hsY p36.33 p36.33 0 404 gneg
