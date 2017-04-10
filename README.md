@@ -22,6 +22,6 @@ you can see circos.conf, ideogram.conf, karyotype.human.hg19.txt, ticks.conf
 
 circos.conf file is the configuration file used by circos to plot images.
 
-
+ideogram.conf 
 
 .....
